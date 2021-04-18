@@ -42,6 +42,7 @@ new Vue({ el: '#components-demo' })
 Vue.component('button-counter', {
   data: function () {
     return {
+
       count: 0
     }
   },
